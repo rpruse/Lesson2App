@@ -15,6 +15,23 @@ namespace Lesson2App
 
             Console.WriteLine("-------------------------------------------------------");
 
+            Console.WriteLine("Kāds ir tavs vecums");
+            string ageText = Console.ReadLine();
+
+            int age = int.Parse(ageText);
+            int ageNextYear = age + 1;
+            bool isAdult = age >= 18;
+
+
+
+            Console.WriteLine($"Nākamgad tev paliks, {ageNextYear} Tu esi pilngadīgs: {isAdult}");
+
+
+            Console.WriteLine("-------------------------------------------------------");
+
+
+
+
         }
     }
 }
