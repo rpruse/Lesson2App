@@ -1,0 +1,16 @@
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\obj\Debug\net5.0\Lesson2App.csproj.AssemblyReference.cache
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\obj\Debug\net5.0\Lesson2App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\obj\Debug\net5.0\Lesson2App.AssemblyInfoInputs.cache
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\obj\Debug\net5.0\Lesson2App.AssemblyInfo.cs
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\obj\Debug\net5.0\Lesson2App.csproj.CoreCompileInputs.cache
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\bin\Debug\net5.0\Lesson2App.exe
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\bin\Debug\net5.0\Lesson2App.deps.json
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\bin\Debug\net5.0\Lesson2App.runtimeconfig.json
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\bin\Debug\net5.0\Lesson2App.runtimeconfig.dev.json
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\bin\Debug\net5.0\Lesson2App.dll
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\bin\Debug\net5.0\ref\Lesson2App.dll
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\bin\Debug\net5.0\Lesson2App.pdb
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\obj\Debug\net5.0\Lesson2App.dll
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\obj\Debug\net5.0\ref\Lesson2App.dll
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\obj\Debug\net5.0\Lesson2App.pdb
+E:\Users\Janis\Desktop\C#PROGAM\lesson2t\Lesson2App\Lesson2App\obj\Debug\net5.0\Lesson2App.genruntimeconfig.cache

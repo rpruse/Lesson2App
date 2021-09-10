@@ -6,12 +6,14 @@ namespace Lesson2App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Kā tevi sauc?");
 
-            Console.WriteLine("Ievadi savu vecumu?");
-            string userAgeText = Console.ReadLine();
+            string userName = Console.ReadLine();
+
+            Console.WriteLine($"Sveiks, {userName}");
 
 
+            Console.WriteLine("-------------------------------------------------------");
 
         }
     }
