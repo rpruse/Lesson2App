@@ -29,6 +29,24 @@ namespace Lesson2App
 
             Console.WriteLine("-------------------------------------------------------");
 
+            int maxNumber1 = 100;
+            int maxNUmber2 = 50;
+            int maxLargest = Math.Max(maxNumber1, maxNUmber2);
+
+            Console.WriteLine(maxLargest);
+
+            Console.WriteLine("-------------------------------------------------------");
+
+            int minNumber1 = 5;
+            int minNUmber2 = 50;
+            int minSmalles = Math.Min(minNumber1, minNUmber2);
+
+            Console.WriteLine(minSmalles);
+
+            Console.WriteLine("-------------------------------------------------------");
+
+
+
 
 
 
