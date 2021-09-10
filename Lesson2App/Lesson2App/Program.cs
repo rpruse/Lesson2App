@@ -29,9 +29,11 @@ namespace Lesson2App
 
             Console.WriteLine("-------------------------------------------------------");
 
-            int maxNumber1 = 100;
-            int maxNUmber2 = 50;
-            int maxLargest = Math.Max(maxNumber1, maxNUmber2);
+            string maxNumber1 = Console.ReadLine();
+            string maxNumber2 = Console.ReadLine();
+         
+
+            int maxLargest = Math.Max(maxNumber1, maxNumber2);
 
             Console.WriteLine(maxLargest);
 
