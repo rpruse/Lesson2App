@@ -34,16 +34,37 @@ namespace Lesson2App
             string maxNumber1 = Console.ReadLine();
             string maxNumber2 = Console.ReadLine();
 
-            int maxLargest = Math.Max(maxNumber1, maxNumber2);
+            int number1 = int.Parse(maxNumber1);
+            int number2 = int.Parse(maxNumber2);
+
+            int maxLargest = Math.Max(number1, number2);
             
 
             Console.WriteLine(maxLargest);
 
             Console.WriteLine("-------------------------------------------------------");
 
-            
+            Console.WriteLine("Insert number");
 
-           
+            string minNumber1 = Console.ReadLine();
+            string minNumber2 = Console.ReadLine();
+
+            int num1 = int.Parse(minNumber1);
+            int num2 = int.Parse(minNumber2);
+
+            int minSmallest = Math.Min(num1, num2);
+
+
+            Console.WriteLine(minSmallest);
+
+            Console.WriteLine("-------------------------------------------------------");
+
+
+
+
+
+
+
 
 
 
