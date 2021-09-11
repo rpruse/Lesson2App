@@ -29,23 +29,37 @@ namespace Lesson2App
 
             Console.WriteLine("-------------------------------------------------------");
 
+            Console.WriteLine("Insert number");
+      
             string maxNumber1 = Console.ReadLine();
             string maxNumber2 = Console.ReadLine();
-         
 
-            int maxLargest = Math.Max(maxNumber1, maxNumber2);
 
-            Console.WriteLine(maxLargest);
+            Console.WriteLine(maxNumber1, maxNumber2);
 
             Console.WriteLine("-------------------------------------------------------");
 
-            int minNumber1 = 5;
-            int minNUmber2 = 50;
-            int minSmalles = Math.Min(minNumber1, minNUmber2);
+            bool isEqual = 15 == 17;
+            Console.WriteLine(isEqual);
 
-            Console.WriteLine(minSmalles);
+            bool isNotEqual = !isEqual;
+            Console.WriteLine(isNotEqual);
 
-            Console.WriteLine("-------------------------------------------------------");
+            int isSmallerNumber1 = 15;
+            int isSmallerNumber2 = 17;
+            bool isSmaller = isSmallerNumber1 <= isSmallerNumber2;
+            Console.WriteLine(isSmaller);
+
+            bool iAmTrue = true;
+            bool iAmFalse = false;
+
+            bool result1 = iAmTrue && iAmFalse;
+            bool result2 = iAmTrue || iAmFalse;
+
+            Console.WriteLine(result1);
+            Console.WriteLine(result2);
+
+
 
 
 
